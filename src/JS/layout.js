@@ -7,9 +7,9 @@ const Layout = () => {
   return(
     <>
       <nav className="navBarClass" id="navBarId">
-        <Link to="/euside" id="siteLogoWraperId"><img id="siteLogoId" src={logo} alt="Logo" /></Link>
+        <Link to="/" id="siteLogoWraperId"><img id="siteLogoId" src={logo} alt="Logo" /></Link>
           <ul id="navBarListId">
-            <CustomLink className="navClickClass" id="homeBtnId" to="/euside"><div id="homeMenuTextId" className="navTextClass">Home</div></CustomLink>
+            <CustomLink className="navClickClass" id="homeBtnId" to="/"><div id="homeMenuTextId" className="navTextClass">Home</div></CustomLink>
             <CustomLink className="navClickClass" id="projectBtnId" to="/project"><div id="projectMenuTextId" className="navTextClass">Projects</div></CustomLink>
             <CustomLink className="navClickClass" id="aboutBtnId" to="/about"><div id="aboutMenuTextId" className="navTextClass">About</div></CustomLink>
             <CustomLink className="navClickClass" id="contactBtnId" to="/contact"><div id="contactMenuTextId" className="navTextClass">Contact</div></CustomLink>

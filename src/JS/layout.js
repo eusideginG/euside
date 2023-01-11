@@ -7,7 +7,7 @@ const Layout = () => {
   return(
     <>
       <nav className="navBarClass" id="navBarId">
-        <Link to="/euside/" id="siteLogoWraperId"><img id="siteLogoId" src={logo} alt="" /></Link>
+        <Link to="/euside/" id="siteLogoWraperId"><img id="siteLogoId" src={logo} alt="Logo" /></Link>
           <ul id="navBarListId">
             <CustomLink className="navClickClass" id="homeBtnId" to="/euside/"><div id="homeMenuTextId" className="navTextClass">Home</div></CustomLink>
             <CustomLink className="navClickClass" id="projectBtnId" to="/euside/project"><div id="projectMenuTextId" className="navTextClass">Projects</div></CustomLink>

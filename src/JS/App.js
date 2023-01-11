@@ -25,11 +25,11 @@ const App = () => {
             <Layout />
             <div id="mainWraperId">
                 <Routes>
-                    <Route path="/" index element={<Home />}></Route>
-                    <Route path="/project" element={<Project />}></Route>
-                    <Route path="/about" element={<About />}></Route>
-                    <Route path="/contact" element={<Contact />}></Route>
-                    <Route path="/info" element={<Info />}></Route>
+                    <Route path="/euside/" index element={<Home />}></Route>
+                    <Route path="/euside/project" element={<Project />}></Route>
+                    <Route path="/euside/about" element={<About />}></Route>
+                    <Route path="/euside/contact" element={<Contact />}></Route>
+                    <Route path="/euside/info" element={<Info />}></Route>
                 </Routes>
             </div>
         </div>)

@@ -6,7 +6,7 @@ import App from "./JS/App";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
-    <HushRouter basename={'/euside'}>
+    <HushRouter basename={'/'}>
         <App />
     </HushRouter>
 );

@@ -7,13 +7,13 @@ const Layout = () => {
   return(
     <>
       <nav className="navBarClass" id="navBarId">
-        <Link to="/" id="siteLogoWraperId"><img id="siteLogoId" src={logo} alt="" /></Link>
+        <Link to="/euside/" id="siteLogoWraperId"><img id="siteLogoId" src={logo} alt="" /></Link>
           <ul id="navBarListId">
-            <CustomLink className="navClickClass" id="homeBtnId" to="/"><div id="homeMenuTextId" className="navTextClass">Home</div></CustomLink>
-            <CustomLink className="navClickClass" id="projectBtnId" to="/project"><div id="projectMenuTextId" className="navTextClass">Projects</div></CustomLink>
-            <CustomLink className="navClickClass" id="aboutBtnId" to="/about"><div id="aboutMenuTextId" className="navTextClass">About</div></CustomLink>
-            <CustomLink className="navClickClass" id="contactBtnId" to="/contact"><div id="contactMenuTextId" className="navTextClass">Contact</div></CustomLink>
-            <CustomLink className="navClickClass" id="aboutBtnId" to="/info"><div id="infoMenuTextId" className="navTextClass">Info</div></CustomLink>
+            <CustomLink className="navClickClass" id="homeBtnId" to="/euside/"><div id="homeMenuTextId" className="navTextClass">Home</div></CustomLink>
+            <CustomLink className="navClickClass" id="projectBtnId" to="/euside/project"><div id="projectMenuTextId" className="navTextClass">Projects</div></CustomLink>
+            <CustomLink className="navClickClass" id="aboutBtnId" to="/euside/about"><div id="aboutMenuTextId" className="navTextClass">About</div></CustomLink>
+            <CustomLink className="navClickClass" id="contactBtnId" to="/euside/contact"><div id="contactMenuTextId" className="navTextClass">Contact</div></CustomLink>
+            <CustomLink className="navClickClass" id="aboutBtnId" to="/euside/info"><div id="infoMenuTextId" className="navTextClass">Info</div></CustomLink>
           </ul>
         </nav>
       </>

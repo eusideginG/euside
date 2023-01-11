@@ -33,7 +33,7 @@ const Home = () => {
                 </Slider>
             </div>
             <div id="chekcMyProjectWrapperId">
-                <Link className="checkProjectClass" to={"/project"}><button className="checkProjectBtnClass">Check my projects</button></Link>
+                <Link className="checkProjectClass" to={"/euside/project"}><button className="checkProjectBtnClass">Check my projects</button></Link>
             </div>
         </div>
     )

@@ -5,7 +5,7 @@ const About = () => {
 
     return(
         <div id="aboutWrapperId">
-            <a className="dlWrapperClass" href="CV - SIDERAS EVGENIOS.docx" download="CV - SIDERAS EVGENIOS"><button className="dlBtnClass">Downlaod the CV</button></a>
+            <a className="dlWrapperClass" href="https://github.com/eusideginG/euside/raw/main/public/CV%20-%20SIDERAS%20EVGENIOS.docx" download="CV - SIDERAS EVGENIOS"><button className="dlBtnClass">Downlaod the CV</button></a>
             <br/>
             <h3 className="fNameClass">Sideras</h3>
             <h3 className="lNameClass">Evgenios</h3>

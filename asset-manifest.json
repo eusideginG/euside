@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/euside/static/css/main.709d4f9b.css",
-    "main.js": "/euside/static/js/main.85278ac8.js",
+    "main.js": "/euside/static/js/main.83764723.js",
     "static/media/7.png": "/euside/static/media/7.9cb3ebb60fb99665cfa8.png",
     "static/media/3.png": "/euside/static/media/3.ecee73a732ee7b17a43e.png",
     "static/media/2.png": "/euside/static/media/2.06735f5e841b8f5c4992.png",
@@ -20,10 +20,10 @@
     "static/media/slick.woff": "/euside/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/euside/index.html",
     "main.709d4f9b.css.map": "/euside/static/css/main.709d4f9b.css.map",
-    "main.85278ac8.js.map": "/euside/static/js/main.85278ac8.js.map"
+    "main.83764723.js.map": "/euside/static/js/main.83764723.js.map"
   },
   "entrypoints": [
     "static/css/main.709d4f9b.css",
-    "static/js/main.85278ac8.js"
+    "static/js/main.83764723.js"
   ]
 }

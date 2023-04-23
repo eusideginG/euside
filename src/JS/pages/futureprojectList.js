@@ -4,7 +4,7 @@ const fututeProjectList = [
     desc: "Board and card games so you can play on your phone with your friends"
     },
     {title: "Next Project: Bar Chart",
-    desc: "A simble 2D chart of United States GDP"
+    desc: "A simple 2D chart of United States GDP"
     },
     {title: "Next Project: Scatterplot Graph",
     desc: "A graph for Doping in Professional Bicycle Racing"

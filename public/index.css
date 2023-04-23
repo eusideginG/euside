@@ -1,5 +1,5 @@
 :root{
-    --main-color:rgb(60, 60, 60);
+    --main-color: linear-gradient(90deg, rgba(35,35,35,1) 0%, rgba(60,60,60,1) 35%, rgba(70,140,140,1) 100%);
     --text-color:rgb(245, 245, 245);
     --navBar-color:rgb(35, 35, 35);
     --navBar-button-color:rgb(30, 100, 100);

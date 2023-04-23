@@ -12,23 +12,23 @@ import rnp from "../../assets/imgs/rnp.png";
 
 const Projects = [
     {title:"Random Quote Machine",
-    link:"https://codepen.io/rerer-fafsfs/pen/ExLyoWd",
+    link:"https://codepen.io/rerer-fafsfs/full/ExLyoWd",
     img: i1
     },
     {title:"Markdown Previewer",
-    link:"https://codepen.io/rerer-fafsfs/pen/YzLGzdR",
+    link:"https://codepen.io/rerer-fafsfs/full/YzLGzdR",
     img: i2
     },
     {title:"Drum Machine",
-    link:"https://codepen.io/rerer-fafsfs/pen/gOzXaXN?editors=0110",
+    link:"https://codepen.io/rerer-fafsfs/full/gOzXaXN?editors=0110",
     img: i3
     },
     {title:"JavaScript Calculator",
-    link:"https://codepen.io/rerer-fafsfs/pen/zYjJWxp?editors=0010",
+    link:"https://codepen.io/rerer-fafsfs/full/zYjJWxp?editors=0010",
     img: i4
     },
     {title:"25 + 5 Clock",
-    link:"https://codepen.io/rerer-fafsfs/pen/VwxqWbX?editors=0110",
+    link:"https://codepen.io/rerer-fafsfs/full/VwxqWbX?editors=0110",
     img: i5
     },
     {title:"Arithmetic Formatter",
